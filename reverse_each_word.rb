@@ -1,5 +1,5 @@
 def reverse_each_word (phrase)
-  if phrase.reverse == 
+  if phrase.length == 
 
 
   end 
