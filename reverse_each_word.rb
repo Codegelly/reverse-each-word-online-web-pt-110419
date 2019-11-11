@@ -6,7 +6,7 @@ def reverse_each_word (phrase)
     string.reverse
   
   end
-  return new_array.join
+  return new_array.join( " " )
 end 
 
 
