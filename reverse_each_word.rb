@@ -1,5 +1,5 @@
 def reverse_each_word (phrase)
-  phrase = ("Hello there, and how are you?")
+  phrase = ("olleH ,ereht dna woh era ?uoy")
   phrase.each do |phrases|
   phrase << 
 
